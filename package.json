@@ -1,0 +1,15 @@
+{
+  "name": "bun-express",
+  "version": "1.0.0",
+  "description": "Bun Express Server",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "bun src/index.js"
+  },
+  "author": "Matthew Groff",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "openai": "^3.3.0"
+  }
+}
